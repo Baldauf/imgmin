@@ -18,7 +18,7 @@
  ```
 
 ## Usage
-1. Add images you and to refine to the `/img` folder.
+1. Add images you want to refine to the `/img` folder.
 2. Open `gulpfile.js` in your texteditor of choice.
 
 You'll see two tasks in gulpfile:
