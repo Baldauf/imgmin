@@ -23,4 +23,4 @@ You'll see two tasks in gulpfile:
 1. Running `gulp resize` will resize all .jpgs in the img folder using the attributues specified.
 2. Running `gulp tinyimg` will minify all images that have been resized using the `https://tinyjpg.com/` api service. 
 
-**Note: to use tinyimg, you will have to set up your own api key and replace `api-key-here`**
+**Note: to use tinyimg, you will have to [set up your own api key](https://tinyjpg.com/developers) and replace `api-key-here`**
