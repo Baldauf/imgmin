@@ -11,9 +11,11 @@
 1. Clone this repo.
 2. Move to the repo in a terminal/iterm pane.
 3. Install packages by running the following in terminal/iterm from the repo:
- • `brew install imagemagick`
- • `brew install graphicsmagick`
- • `npm install`
+ ```
+ brew install imagemagick
+ brew install graphicsmagick
+ npm install
+ ```
 
 ## Usage
 1. Add images you and to refine to the `/img` folder.
